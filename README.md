@@ -1,17 +1,16 @@
 ## Hi there 👋
 
-My name is Veeresh Koliwad and I live in Tempe, Arizona, USA.
+🎓 I’m a Master’s student in Computer Science at ASU (graduating Dec 2025) with 2.5+ years of experience @ SAP Labs as Software Developer and am also the founder of Elevv, an AI-powered career intelligence platform. I’m passionate about building scalable, ML-driven products from the ground up.
 
-🎓I'm pursuing my Master's in Computer Science at Arizona State University (graduating in December 2025), currently researching on LLM compression, and previously worked at SAP Labs for over 2.5 years, where I focused on backend development, distributed systems, and machine learning-driven systems.
-.
+🚀 As founder, I’ve designed, built, and deployed a full-stack, serverless application on AWS — architecting event-driven Python microservices for asynchronous resume processing and integrating LLMs for intelligent content generation. This hands-on journey has given me end-to-end experience across the product lifecycle, from system design to user adoption.
 
-💻I have been working in designing and implementing AI-driven solutions, particularly in the fields of computer vision, natural language processing, and predictive analytics. My professional journey at SAP Labs as an Associative Software Developer allowed me to lead ML-driven automation, improved API performance by 30%, and built microservices that cut order processing time by 90%.
+💻 Previously, I spent 2.5+ years at SAP Labs engineering distributed backend systems and ML automation pipelines. I led projects that cut order processing time by 90% and improved API performance by 30%. At ASU, my current research focuses on LLM compression and retrieval-augmented generation (RAG).
 
-🛠️Skills: 
- Languages: Python, C/C++, Java (Intermediate), SQL, JavaScript, HTML/CSS 
- Machine Learning: NLP, Computer Vision, LLMs, Recommendation Systems 
- Tools: Docker, Kubernetes, React, Kafka, Elastic Search, Redis, Git 
- Cloud & Databases: AWS, SAP Cloud Platform, PostgreSQL, MongoDB 
- Methodologies: REST APIs, Microservices, Distributed Systems, Agile, CI/CD 
+🛠️ Skills & Tools
+Languages: Python, C++, Java, SQL, JavaScript
+Frameworks/Tools: Docker, Kubernetes, Kafka, Redis, React, Flask
+AI/ML: Computer Vision, NLP, LLMs, RAG, YOLOv8, Optical Flow
+Cloud & Databases: AWS (Lambda, S3, DynamoDB), SAP Cloud, PostgreSQL, MongoDB
 
-🚀 I am actively seeking Summer 2025 internship opportunities and full time roles starting Dec 2025 in Data Science, Machine Learning, NLP and Software Engineering roles. Feel free to connect with me or reach out if you’d like to collaborate! Email: vkoliwad@asu.edu
+🔍 I’m actively seeking full-time Software Engineering opportunities starting late 2025 in distributed systems, backend engineering, Machine Learning and applied AI. Feel free to connect with me or reach out if you’d like to collaborate!
+📩 vkoliwad@asu.edu
